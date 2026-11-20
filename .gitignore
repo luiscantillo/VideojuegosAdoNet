@@ -1,0 +1,14 @@
+# Compilación de .NET
+bin/
+obj/
+
+# Base de datos generada al ejecutar
+*.db
+*.db-shm
+*.db-wal
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
