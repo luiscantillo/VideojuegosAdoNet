@@ -29,7 +29,7 @@ dotnet --version
 ## Cómo ejecutarlo
 
 ```bash
-git clone https://github.com/<tu-usuario>/VideojuegosAdoNet.git
+git clone https://github.com/luiscantillo/VideojuegosAdoNet.git
 cd VideojuegosAdoNet
 dotnet restore
 dotnet run
