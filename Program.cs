@@ -1,6 +1,5 @@
 // ============================================================
 //  Registro de Videojuegos con ADO.NET + SQLite
-//  Asignatura: Programación en C# con .NET - Semana 12
 // ============================================================
 using System.Text;
 using Microsoft.Data.Sqlite;
